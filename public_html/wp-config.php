@@ -18,15 +18,15 @@
 /** The name of the database for WordPress */
 define( 'WPCACHEHOME', '/home1/akinfo36/public_html/wp-content/plugins/wp-super-cache/' );
 define('WP_CACHE', true); //Added by WP-Cache Manager
-define('DB_NAME', 'akinfo36_wp');
+define('DB_NAME', 'akinfo');
 
 
 /** MySQL database username */
-define('DB_USER', 'akinfo36_wp');
+define('DB_USER', 'dalves');
 
 
 /** MySQL database password */
-define('DB_PASSWORD', 'AioU2oYRln2oK9');
+define('DB_PASSWORD', 'Aguiav0@alto');
 
 
 /** MySQL hostname */
