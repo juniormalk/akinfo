@@ -695,6 +695,7 @@ h3#site-title {
 
 #header-right-section {
 	float: right;
+	width: 50%;
 }
 
 #header-right-sidebar {
