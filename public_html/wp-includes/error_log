@@ -1,0 +1,17 @@
+[23-Sep-2015 08:20:20 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/akinf803/public_html/wp-includes/rss-functions.php on line 8
+[28-Dec-2016 23:21:41 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/akinf803/public_html/wp-includes/functions.php on line 8
+[28-Dec-2016 23:21:41 America/Chicago] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/akinf803/public_html/wp-includes/functions.php on line 8
+[28-Dec-2016 23:21:41 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php54/lib/php') in /home/akinf803/public_html/wp-includes/functions.php on line 8
+[28-Dec-2016 23:29:57 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/akinf803/public_html/wp-includes/session.php on line 8
+[22-Mar-2017 19:44:22 America/Chicago] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/akinf803/public_html/wp-includes/registration-functions.php on line 7
+[19-Nov-2018 21:19:02 America/Chicago] PHP Fatal error:  Call to undefined function is_robots() in /home/akinf803/public_html/wp-includes/template-loader.php on line 28
+[11-Jul-2019 14:26:50] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/akinf803/public_html/wp-includes/rss.php on line 19
+[30-Aug-2019 22:14:51] PHP Fatal error:  Call to undefined function  _deprecated_file() in /home/akinf803/public_html/wp-includes/rss-functions.php on line 8
+[10-Aug-2020 09:14:04 America/Sao_Paulo] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home1/akinfo36/public_html/wp-includes/locale.php:11
+Stack trace:
+#0 {main}
+  thrown in /home1/akinfo36/public_html/wp-includes/locale.php on line 11
+[10-Aug-2020 21:49:56 America/Sao_Paulo] PHP Fatal error:  Class 'Walker' not found in /home1/akinfo36/public_html/wp-includes/class-walker-nav-menu.php on line 17
+[12-Aug-2020 22:16:41 America/Sao_Paulo] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/akinfo36/public_html/wp-includes/functions.php on line 8
+[12-Aug-2020 22:16:41 America/Sao_Paulo] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home1/akinfo36/public_html/wp-includes/functions.php on line 8
+[12-Aug-2020 22:16:41 America/Sao_Paulo] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/php71/lib/php') in /home1/akinfo36/public_html/wp-includes/functions.php on line 8

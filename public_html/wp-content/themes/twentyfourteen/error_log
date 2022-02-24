@@ -1,0 +1,9 @@
+[09-Jun-2019 00:57:34] PHP Fatal error:  Call to undefined function  is_active_sidebar() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/sidebar-footer.php on line 10
+[09-Jun-2019 04:48:30] PHP Fatal error:  Call to undefined function  is_active_sidebar() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/sidebar-footer.php on line 10
+[11-Jun-2019 03:57:15] PHP Fatal error:  Call to undefined function  post_password_required() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/comments.php on line 16
+[11-Jun-2019 18:57:55] PHP Fatal error:  Call to undefined function  do_action() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/featured-content.php on line 19
+[11-Jun-2019 19:32:03] PHP Fatal error:  Call to undefined function  do_action() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/featured-content.php on line 19
+[13-Jun-2019 15:21:13] PHP Fatal error:  Call to undefined function  is_active_sidebar() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/sidebar-footer.php on line 10
+[13-Jun-2019 22:19:36] PHP Fatal error:  Call to undefined function  post_password_required() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/comments.php on line 16
+[14-Jun-2019 02:10:14] PHP Fatal error:  Call to undefined function  get_header() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/archive.php on line 20
+[14-Jun-2019 07:24:46] PHP Fatal error:  Call to undefined function  get_header() in /home/akinf803/public_html/wp-content/themes/twentyfourteen/archive.php on line 20

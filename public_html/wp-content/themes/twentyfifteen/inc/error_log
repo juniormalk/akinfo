@@ -1,0 +1,5 @@
+[25-Oct-2018 19:42:59 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/akinf803/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[25-Oct-2018 23:39:58 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/akinf803/public_html/wp-content/themes/twentyfifteen/inc/custom-header.php on line 41
+[26-Oct-2018 03:51:59 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/akinf803/public_html/wp-content/themes/twentyfifteen/inc/customizer.php on line 70
+[26-Oct-2018 04:50:24 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/akinf803/public_html/wp-content/themes/twentyfifteen/inc/back-compat.php on line 26
+[26-Oct-2018 08:28:04 America/Chicago] PHP Fatal error:  Call to undefined function add_action() in /home/akinf803/public_html/wp-content/themes/twentyfifteen/inc/template-tags.php on line 171
