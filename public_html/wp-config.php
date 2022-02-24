@@ -16,7 +16,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'WPCACHEHOME', '/home1/akinfo36/public_html/wp-content/plugins/wp-super-cache/' );
+define( 'WPCACHEHOME', __DIR__.'/wp-content/plugins/wp-super-cache/' );
 define('WP_CACHE', true); //Added by WP-Cache Manager
 define('DB_NAME', 'akinfo');
 
